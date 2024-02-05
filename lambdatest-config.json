@@ -10,18 +10,11 @@
          "versions": [
             "latest-1"
          ]
-      },
-      {
-         "browser": "Firefox",
-         "platform": "Windows 10",
-         "versions": [
-            "latest-1"
-         ]
       }
    ],
    "run_settings": {
       "reporter_config_file": "base_reporter_config.json",
-      "build_name": "Feb",
+      "build_name": "Feb3",
       "parallels": 1,
       "specs": "./cypress/e2e/1-getting-started/todo.cy.js",
       "ignore_files": "",
