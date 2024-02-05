@@ -21,7 +21,7 @@
    ],
    "run_settings": {
       "reporter_config_file": "base_reporter_config.json",
-      "build_name": "build-name",
+      "build_name": "Feb",
       "parallels": 1,
       "specs": "./cypress/e2e/1-getting-started/todo.cy.js",
       "ignore_files": "",
@@ -32,7 +32,7 @@
       }
    },
    "tunnel_settings": {
-      "tunnel": false,
-      "tunnel_name": null
+      "tunnel": true,
+      "tunnel_name": "Cypress Tests"
    }
 }
