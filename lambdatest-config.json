@@ -32,7 +32,7 @@
       }
    },
    "tunnel_settings": {
-      "tunnel": true,
-      "tunnel_name": "Cypress Tests"
+      "tunnel": false,
+      "tunnel_name": null
    }
 }
