@@ -14,7 +14,7 @@
    ],
    "run_settings": {
       "reporter_config_file": "base_reporter_config.json",
-      "build_name": "Feb5",
+      "build_name": "build_name_001",
       "parallels": 1,
       "specs": "./cypress/e2e/1-getting-started/todo.cy.js",
       "ignore_files": "",
